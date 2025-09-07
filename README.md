@@ -1,29 +1,33 @@
-#### 🐍 **Python Lab Exercises**
-**📋 Overview**
-**Python programming exercises** focusing on **variables, user input, mathematical operations**, and **string formatting**.
-#### 📚 **Exercises**
-**Exercise 2: Message Variables**
+# 🐍 Python Lab Exercises
 
-Store and print messages using variables
+## 📋 Overview
+**Python programming exercises** focusing on **variables**, **user input**, **mathematical operations**, and **string formatting**.
 
-**Exercise 3: User Input & Favorite Number**
+## 📚 Exercises
 
-Get user input and create personalized messages
+### **Exercise 2: Message Variables**
+- Store and print messages using variables
 
-**Exercise 4: Sphere Volume Calculator**
+### **Exercise 3: User Input & Favorite Number**
+- Get user input and create personalized messages
 
-Calculate sphere volume using V = 4/3πr³
-Includes user input and type conversion
+### **Exercise 4: Sphere Volume Calculator**
+- Calculate sphere volume using **V = 4/3πr³**
+- Includes user input and type conversion
 
-**Exercise 5: Arithmetic Operations**
+### **Exercise 5: Arithmetic Operations**
+- Perform addition, subtraction, multiplication, division
+- Uses **F-string formatting**
 
-Perform addition, subtraction, multiplication, division
-Uses F-string formatting
+### **Exercise 6: Days to Seconds Converter**
+- Convert days to seconds using formula: **Days × 24 × 60 × 60**
 
-**Exercise 6: Days to Seconds Converter**
+### **Exercise 7: Student Group Calculator**
+- Calculate number of groups based on student count and group size
 
-Convert days to seconds using formula: Days × 24 × 60 × 60
-
-**Exercise 7: Student Group Calculator**
-
-Calculate number of groups based on student count and group size
+## 🎯 Key Concepts
+- **Variables & Data Types** (string, int, float)
+- **Mathematical Operations** (+, -, *, /, **)
+- **User Input/Output** (`input()`, `print()`)
+- **String Formatting** (concatenation, f-strings)
+- **Type Conversion** (`int()`, `float()`)
